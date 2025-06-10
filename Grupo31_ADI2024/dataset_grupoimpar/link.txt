@@ -1,0 +1,20 @@
+https://archive.ics.uci.edu/dataset/571/hcv+data
+
+Age
+Birth year
+Birth month 
+Birth day
+Sex
+Birth location
+Albumin
+Alkaline phosphatase
+Alanine transferase
+Aspartate transferase
+Bilirubin
+Cholinesterase
+Cholesterol
+Creatinine
+Gama Glutamil Transferase
+Protein	
+Category (target variable)
+
